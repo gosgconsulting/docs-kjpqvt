@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-4ze4gr.kilat77lak.site/sitemap.xml
